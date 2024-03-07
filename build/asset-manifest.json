@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ashpathak99/React_Project/tree/main/textutils/static/css/main.f855e6bc.css",
+    "main.js": "/ashpathak99/React_Project/tree/main/textutils/static/js/main.228dd7a1.js",
+    "static/js/453.02b6ed6f.chunk.js": "/ashpathak99/React_Project/tree/main/textutils/static/js/453.02b6ed6f.chunk.js",
+    "static/media/logo.svg": "/ashpathak99/React_Project/tree/main/textutils/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ashpathak99/React_Project/tree/main/textutils/index.html",
+    "main.f855e6bc.css.map": "/ashpathak99/React_Project/tree/main/textutils/static/css/main.f855e6bc.css.map",
+    "main.228dd7a1.js.map": "/ashpathak99/React_Project/tree/main/textutils/static/js/main.228dd7a1.js.map",
+    "453.02b6ed6f.chunk.js.map": "/ashpathak99/React_Project/tree/main/textutils/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.228dd7a1.js"
+  ]
+}
